@@ -1,0 +1,2 @@
+# pythonForML
+a lecture note
